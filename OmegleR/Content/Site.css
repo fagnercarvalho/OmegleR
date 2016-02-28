@@ -1,0 +1,11 @@
+﻿    .chat {
+        border: 0.5px solid;
+        background: #dddddd;
+        border-top-left-radius: 0.5em;
+        height: 70vh;
+        overflow-y: scroll;
+    }
+
+    .col {
+        padding: 7px;
+    }
